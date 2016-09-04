@@ -15,6 +15,8 @@
 				<integer>0</integer>
 				<key>modifiersubtext</key>
 				<string></string>
+				<key>vitoclose</key>
+				<false/>
 			</dict>
 		</array>
 		<key>10D447AE-25F5-4A1D-BB29-64302C5411FA</key>
@@ -26,6 +28,8 @@
 				<integer>0</integer>
 				<key>modifiersubtext</key>
 				<string></string>
+				<key>vitoclose</key>
+				<false/>
 			</dict>
 		</array>
 		<key>1AE3BB23-D37C-4CE4-9745-21AA07287DE9</key>
@@ -37,6 +41,8 @@
 				<integer>0</integer>
 				<key>modifiersubtext</key>
 				<string></string>
+				<key>vitoclose</key>
+				<false/>
 			</dict>
 		</array>
 		<key>1B12E95F-8F32-400E-A887-2A06F84E2615</key>
@@ -48,6 +54,8 @@
 				<integer>0</integer>
 				<key>modifiersubtext</key>
 				<string></string>
+				<key>vitoclose</key>
+				<false/>
 			</dict>
 		</array>
 		<key>2B2148AD-3162-4DF2-87E2-724548EC4B3E</key>
@@ -59,6 +67,8 @@
 				<integer>0</integer>
 				<key>modifiersubtext</key>
 				<string></string>
+				<key>vitoclose</key>
+				<false/>
 			</dict>
 		</array>
 		<key>460C9157-2FA1-4618-B805-5874A1078F94</key>
@@ -70,6 +80,8 @@
 				<integer>0</integer>
 				<key>modifiersubtext</key>
 				<string></string>
+				<key>vitoclose</key>
+				<false/>
 			</dict>
 		</array>
 		<key>8920D2EF-22CB-48CD-A978-6376FA388AC6</key>
@@ -81,6 +93,8 @@
 				<integer>0</integer>
 				<key>modifiersubtext</key>
 				<string></string>
+				<key>vitoclose</key>
+				<false/>
 			</dict>
 		</array>
 		<key>907FF73F-46D8-4CD6-8C24-3DAFC7E9A246</key>
@@ -92,6 +106,8 @@
 				<integer>0</integer>
 				<key>modifiersubtext</key>
 				<string></string>
+				<key>vitoclose</key>
+				<false/>
 			</dict>
 		</array>
 		<key>AAE2193C-E6C1-4A1C-8A17-774AF8868DCF</key>
@@ -103,6 +119,8 @@
 				<integer>0</integer>
 				<key>modifiersubtext</key>
 				<string></string>
+				<key>vitoclose</key>
+				<false/>
 			</dict>
 		</array>
 		<key>C95BF847-AF2B-4E7F-B79B-73975F16679E</key>
@@ -114,6 +132,8 @@
 				<integer>0</integer>
 				<key>modifiersubtext</key>
 				<string></string>
+				<key>vitoclose</key>
+				<false/>
 			</dict>
 		</array>
 		<key>C9BA5AE1-324C-4670-871D-CE1F194CC38C</key>
@@ -125,6 +145,8 @@
 				<integer>0</integer>
 				<key>modifiersubtext</key>
 				<string></string>
+				<key>vitoclose</key>
+				<false/>
 			</dict>
 		</array>
 		<key>CD69778A-A49B-44D1-9F54-B24359DEF8B8</key>
@@ -136,6 +158,8 @@
 				<integer>0</integer>
 				<key>modifiersubtext</key>
 				<string></string>
+				<key>vitoclose</key>
+				<false/>
 			</dict>
 		</array>
 		<key>D35EA5F6-518B-4103-AA3F-0ACA63983404</key>
@@ -147,6 +171,8 @@
 				<integer>0</integer>
 				<key>modifiersubtext</key>
 				<string></string>
+				<key>vitoclose</key>
+				<false/>
 			</dict>
 		</array>
 		<key>D97CE7A4-4A3A-4CC8-9BE8-028D0964F7BE</key>
@@ -158,6 +184,8 @@
 				<integer>0</integer>
 				<key>modifiersubtext</key>
 				<string></string>
+				<key>vitoclose</key>
+				<false/>
 			</dict>
 		</array>
 		<key>E211DD3D-C18F-4A0F-AF53-B2A8AFEDB41D</key>
@@ -169,6 +197,8 @@
 				<integer>0</integer>
 				<key>modifiersubtext</key>
 				<string></string>
+				<key>vitoclose</key>
+				<false/>
 			</dict>
 		</array>
 		<key>FE924FD8-FF07-4EA3-8310-FC82D638AC8D</key>
@@ -180,6 +210,8 @@
 				<integer>0</integer>
 				<key>modifiersubtext</key>
 				<string></string>
+				<key>vitoclose</key>
+				<false/>
 			</dict>
 		</array>
 	</dict>
@@ -200,11 +232,7 @@
 				<false/>
 				<key>onlyshowifquerypopulated</key>
 				<false/>
-				<key>output</key>
-				<integer>0</integer>
 				<key>removeextension</key>
-				<false/>
-				<key>sticky</key>
 				<false/>
 				<key>text</key>
 				<string>{query}</string>
@@ -216,7 +244,7 @@
 			<key>uid</key>
 			<string>159A291E-3339-491E-8D3F-79091BE0319B</string>
 			<key>version</key>
-			<integer>0</integer>
+			<integer>1</integer>
 		</dict>
 		<dict>
 			<key>config</key>
@@ -237,7 +265,7 @@
 			<key>uid</key>
 			<string>CD69778A-A49B-44D1-9F54-B24359DEF8B8</string>
 			<key>version</key>
-			<integer>0</integer>
+			<integer>1</integer>
 		</dict>
 		<dict>
 			<key>config</key>
@@ -254,7 +282,7 @@ end alfred_script</string>
 			<key>uid</key>
 			<string>AAE2193C-E6C1-4A1C-8A17-774AF8868DCF</string>
 			<key>version</key>
-			<integer>0</integer>
+			<integer>1</integer>
 		</dict>
 		<dict>
 			<key>config</key>
@@ -263,11 +291,7 @@ end alfred_script</string>
 				<false/>
 				<key>onlyshowifquerypopulated</key>
 				<false/>
-				<key>output</key>
-				<integer>0</integer>
 				<key>removeextension</key>
-				<false/>
-				<key>sticky</key>
 				<false/>
 				<key>text</key>
 				<string>the album has been added to the main playlist</string>
@@ -279,7 +303,7 @@ end alfred_script</string>
 			<key>uid</key>
 			<string>F783B864-D782-42D7-8287-D22F321175D3</string>
 			<key>version</key>
-			<integer>0</integer>
+			<integer>1</integer>
 		</dict>
 		<dict>
 			<key>config</key>
@@ -300,15 +324,21 @@ end alfred_script</string>
 			<key>uid</key>
 			<string>025CFBD0-E677-4FDF-8FE9-5EE457047C4C</string>
 			<key>version</key>
-			<integer>0</integer>
+			<integer>1</integer>
 		</dict>
 		<dict>
 			<key>config</key>
 			<dict>
+				<key>concurrently</key>
+				<false/>
 				<key>escaping</key>
 				<integer>127</integer>
 				<key>script</key>
 				<string>/usr/local/bin/mpc clear &amp;&amp; /usr/local/bin/mpc search album {query} | /usr/local/bin/mpc add &amp;&amp; /usr/local/bin/mpc play</string>
+				<key>scriptargtype</key>
+				<integer>0</integer>
+				<key>scriptfile</key>
+				<string></string>
 				<key>type</key>
 				<integer>0</integer>
 			</dict>
@@ -317,15 +347,21 @@ end alfred_script</string>
 			<key>uid</key>
 			<string>E211DD3D-C18F-4A0F-AF53-B2A8AFEDB41D</string>
 			<key>version</key>
-			<integer>0</integer>
+			<integer>2</integer>
 		</dict>
 		<dict>
 			<key>config</key>
 			<dict>
+				<key>concurrently</key>
+				<false/>
 				<key>escaping</key>
 				<integer>127</integer>
 				<key>script</key>
 				<string>/usr/local/bin/mpc search title {query} | /usr/local/bin/mpc add &amp;&amp; /usr/local/bin/mpc play</string>
+				<key>scriptargtype</key>
+				<integer>0</integer>
+				<key>scriptfile</key>
+				<string></string>
 				<key>type</key>
 				<integer>0</integer>
 			</dict>
@@ -334,7 +370,7 @@ end alfred_script</string>
 			<key>uid</key>
 			<string>8920D2EF-22CB-48CD-A978-6376FA388AC6</string>
 			<key>version</key>
-			<integer>0</integer>
+			<integer>2</integer>
 		</dict>
 		<dict>
 			<key>config</key>
@@ -343,11 +379,7 @@ end alfred_script</string>
 				<false/>
 				<key>onlyshowifquerypopulated</key>
 				<false/>
-				<key>output</key>
-				<integer>0</integer>
 				<key>removeextension</key>
-				<false/>
-				<key>sticky</key>
 				<false/>
 				<key>text</key>
 				<string>the song has been added to the main playlist</string>
@@ -359,7 +391,7 @@ end alfred_script</string>
 			<key>uid</key>
 			<string>D2372DBC-C28F-421E-8E91-1FAA5A33A10D</string>
 			<key>version</key>
-			<integer>0</integer>
+			<integer>1</integer>
 		</dict>
 		<dict>
 			<key>config</key>
@@ -380,7 +412,7 @@ end alfred_script</string>
 			<key>uid</key>
 			<string>C95BF847-AF2B-4E7F-B79B-73975F16679E</string>
 			<key>version</key>
-			<integer>0</integer>
+			<integer>1</integer>
 		</dict>
 		<dict>
 			<key>config</key>
@@ -389,11 +421,7 @@ end alfred_script</string>
 				<false/>
 				<key>onlyshowifquerypopulated</key>
 				<false/>
-				<key>output</key>
-				<integer>0</integer>
 				<key>removeextension</key>
-				<false/>
-				<key>sticky</key>
 				<false/>
 				<key>text</key>
 				<string>the main playlist is now empty</string>
@@ -405,7 +433,7 @@ end alfred_script</string>
 			<key>uid</key>
 			<string>92682BEA-7870-475E-B507-7CB0D5BD071F</string>
 			<key>version</key>
-			<integer>0</integer>
+			<integer>1</integer>
 		</dict>
 		<dict>
 			<key>config</key>
@@ -426,15 +454,21 @@ end alfred_script</string>
 			<key>uid</key>
 			<string>D35EA5F6-518B-4103-AA3F-0ACA63983404</string>
 			<key>version</key>
-			<integer>0</integer>
+			<integer>1</integer>
 		</dict>
 		<dict>
 			<key>config</key>
 			<dict>
+				<key>concurrently</key>
+				<false/>
 				<key>escaping</key>
 				<integer>126</integer>
 				<key>script</key>
 				<string>/usr/local/bin/mpc clear</string>
+				<key>scriptargtype</key>
+				<integer>0</integer>
+				<key>scriptfile</key>
+				<string></string>
 				<key>type</key>
 				<integer>0</integer>
 			</dict>
@@ -443,15 +477,21 @@ end alfred_script</string>
 			<key>uid</key>
 			<string>2B2148AD-3162-4DF2-87E2-724548EC4B3E</string>
 			<key>version</key>
-			<integer>0</integer>
+			<integer>2</integer>
 		</dict>
 		<dict>
 			<key>config</key>
 			<dict>
+				<key>concurrently</key>
+				<false/>
 				<key>escaping</key>
 				<integer>0</integer>
 				<key>script</key>
 				<string>/usr/local/bin/mpc playlist</string>
+				<key>scriptargtype</key>
+				<integer>0</integer>
+				<key>scriptfile</key>
+				<string></string>
 				<key>type</key>
 				<integer>0</integer>
 			</dict>
@@ -460,7 +500,7 @@ end alfred_script</string>
 			<key>uid</key>
 			<string>907FF73F-46D8-4CD6-8C24-3DAFC7E9A246</string>
 			<key>version</key>
-			<integer>0</integer>
+			<integer>2</integer>
 		</dict>
 		<dict>
 			<key>config</key>
@@ -481,7 +521,7 @@ end alfred_script</string>
 			<key>uid</key>
 			<string>FE924FD8-FF07-4EA3-8310-FC82D638AC8D</string>
 			<key>version</key>
-			<integer>0</integer>
+			<integer>1</integer>
 		</dict>
 		<dict>
 			<key>config</key>
@@ -490,11 +530,7 @@ end alfred_script</string>
 				<false/>
 				<key>onlyshowifquerypopulated</key>
 				<false/>
-				<key>output</key>
-				<integer>0</integer>
 				<key>removeextension</key>
-				<false/>
-				<key>sticky</key>
 				<false/>
 				<key>text</key>
 				<string>{query}</string>
@@ -506,7 +542,7 @@ end alfred_script</string>
 			<key>uid</key>
 			<string>E3D69637-FA36-4F1E-ACB4-21511DFF0063</string>
 			<key>version</key>
-			<integer>0</integer>
+			<integer>1</integer>
 		</dict>
 		<dict>
 			<key>config</key>
@@ -527,7 +563,7 @@ end alfred_script</string>
 			<key>uid</key>
 			<string>10D447AE-25F5-4A1D-BB29-64302C5411FA</string>
 			<key>version</key>
-			<integer>0</integer>
+			<integer>1</integer>
 		</dict>
 		<dict>
 			<key>config</key>
@@ -536,11 +572,7 @@ end alfred_script</string>
 				<false/>
 				<key>onlyshowifquerypopulated</key>
 				<false/>
-				<key>output</key>
-				<integer>0</integer>
 				<key>removeextension</key>
-				<false/>
-				<key>sticky</key>
 				<false/>
 				<key>text</key>
 				<string>new volume: {query}</string>
@@ -552,16 +584,22 @@ end alfred_script</string>
 			<key>uid</key>
 			<string>06E14DFF-420D-4897-9FF0-BD7EEDF94972</string>
 			<key>version</key>
-			<integer>0</integer>
+			<integer>1</integer>
 		</dict>
 		<dict>
 			<key>config</key>
 			<dict>
+				<key>concurrently</key>
+				<false/>
 				<key>escaping</key>
 				<integer>127</integer>
 				<key>script</key>
 				<string>/usr/local/bin/mpc volume {query} | grep "volume" | cut -c8-11
 </string>
+				<key>scriptargtype</key>
+				<integer>0</integer>
+				<key>scriptfile</key>
+				<string></string>
 				<key>type</key>
 				<integer>0</integer>
 			</dict>
@@ -570,7 +608,7 @@ end alfred_script</string>
 			<key>uid</key>
 			<string>1AE3BB23-D37C-4CE4-9745-21AA07287DE9</string>
 			<key>version</key>
-			<integer>0</integer>
+			<integer>2</integer>
 		</dict>
 		<dict>
 			<key>config</key>
@@ -578,7 +616,7 @@ end alfred_script</string>
 				<key>argumenttype</key>
 				<integer>0</integer>
 				<key>keyword</key>
-				<string>m random album</string>
+				<string>m random albums</string>
 				<key>subtext</key>
 				<string>add a random album to the main playlist</string>
 				<key>text</key>
@@ -591,7 +629,7 @@ end alfred_script</string>
 			<key>uid</key>
 			<string>D97CE7A4-4A3A-4CC8-9BE8-028D0964F7BE</string>
 			<key>version</key>
-			<integer>0</integer>
+			<integer>1</integer>
 		</dict>
 		<dict>
 			<key>config</key>
@@ -600,31 +638,43 @@ end alfred_script</string>
 				<false/>
 				<key>onlyshowifquerypopulated</key>
 				<false/>
-				<key>output</key>
-				<integer>0</integer>
 				<key>removeextension</key>
 				<false/>
-				<key>sticky</key>
-				<false/>
 				<key>text</key>
-				<string>the album has been added to the main playlist</string>
+				<string>the album(s) has been added to the main playlist</string>
 				<key>title</key>
-				<string>Album Added</string>
+				<string>Album(s) Added</string>
 			</dict>
 			<key>type</key>
 			<string>alfred.workflow.output.notification</string>
 			<key>uid</key>
 			<string>012B7F5D-DFF5-477D-98EB-470E7DF81E12</string>
 			<key>version</key>
-			<integer>0</integer>
+			<integer>1</integer>
 		</dict>
 		<dict>
 			<key>config</key>
 			<dict>
+				<key>concurrently</key>
+				<false/>
 				<key>escaping</key>
 				<integer>127</integer>
 				<key>script</key>
-				<string>/usr/local/bin/mpc clear &amp;&amp; /usr/local/bin/mpc search album "$(/usr/local/bin/mpc list album | /usr/local/bin/gshuf -n1)" | /usr/local/bin/mpc add &amp;&amp; /usr/local/bin/mpc play</string>
+				<string>num=$1
+((num2=$num-1))
+
+declare -a requested_albums=$(/usr/local/bin/mpc list album | /usr/local/bin/gshuf -n 1)
+/usr/local/bin/mpc clear
+
+for album in `seq 1 $num2`; do requested_albums=("${requested_albums[@]}" "`(/usr/local/bin/mpc list album | /usr/local/bin/gshuf -n 1)`"); done
+
+for count in `seq 0 $num2`; do /usr/local/bin/mpc find album "${requested_albums[$count]}" | /usr/local/bin/mpc add; done
+
+/usr/local/bin/mpc play</string>
+				<key>scriptargtype</key>
+				<integer>1</integer>
+				<key>scriptfile</key>
+				<string></string>
 				<key>type</key>
 				<integer>0</integer>
 			</dict>
@@ -633,7 +683,7 @@ end alfred_script</string>
 			<key>uid</key>
 			<string>460C9157-2FA1-4618-B805-5874A1078F94</string>
 			<key>version</key>
-			<integer>0</integer>
+			<integer>2</integer>
 		</dict>
 		<dict>
 			<key>config</key>
@@ -641,7 +691,7 @@ end alfred_script</string>
 				<key>argumenttype</key>
 				<integer>0</integer>
 				<key>keyword</key>
-				<string>m add random songs</string>
+				<string>m random songs</string>
 				<key>subtext</key>
 				<string>how many random songs to add main playlist?</string>
 				<key>text</key>
@@ -654,7 +704,7 @@ end alfred_script</string>
 			<key>uid</key>
 			<string>1B12E95F-8F32-400E-A887-2A06F84E2615</string>
 			<key>version</key>
-			<integer>0</integer>
+			<integer>1</integer>
 		</dict>
 		<dict>
 			<key>config</key>
@@ -663,14 +713,10 @@ end alfred_script</string>
 				<false/>
 				<key>onlyshowifquerypopulated</key>
 				<false/>
-				<key>output</key>
-				<integer>0</integer>
 				<key>removeextension</key>
 				<false/>
-				<key>sticky</key>
-				<false/>
 				<key>text</key>
-				<string>the songs have been added to the main playlist</string>
+				<string>the song(s) have been added to the main playlist</string>
 				<key>title</key>
 				<string>Songs added</string>
 			</dict>
@@ -679,15 +725,21 @@ end alfred_script</string>
 			<key>uid</key>
 			<string>3C121864-C05B-47BB-A742-792721C650AB</string>
 			<key>version</key>
-			<integer>0</integer>
+			<integer>1</integer>
 		</dict>
 		<dict>
 			<key>config</key>
 			<dict>
+				<key>concurrently</key>
+				<false/>
 				<key>escaping</key>
 				<integer>127</integer>
 				<key>script</key>
 				<string>/usr/local/bin/mpc listall | /usr/local/bin/gshuf -n{query} | /usr/local/bin/mpc add &amp;&amp; /usr/local/bin/mpc play</string>
+				<key>scriptargtype</key>
+				<integer>0</integer>
+				<key>scriptfile</key>
+				<string></string>
 				<key>type</key>
 				<integer>0</integer>
 			</dict>
@@ -696,7 +748,7 @@ end alfred_script</string>
 			<key>uid</key>
 			<string>C9BA5AE1-324C-4670-871D-CE1F194CC38C</string>
 			<key>version</key>
-			<integer>0</integer>
+			<integer>2</integer>
 		</dict>
 	</array>
 	<key>readme</key>
@@ -705,123 +757,171 @@ end alfred_script</string>
 	<dict>
 		<key>012B7F5D-DFF5-477D-98EB-470E7DF81E12</key>
 		<dict>
+			<key>xpos</key>
+			<integer>750</integer>
 			<key>ypos</key>
-			<real>610</real>
+			<integer>730</integer>
 		</dict>
 		<key>025CFBD0-E677-4FDF-8FE9-5EE457047C4C</key>
 		<dict>
+			<key>xpos</key>
+			<integer>300</integer>
 			<key>ypos</key>
-			<real>110</real>
+			<integer>140</integer>
 		</dict>
 		<key>06E14DFF-420D-4897-9FF0-BD7EEDF94972</key>
 		<dict>
+			<key>xpos</key>
+			<integer>750</integer>
 			<key>ypos</key>
-			<real>510</real>
+			<integer>620</integer>
 		</dict>
 		<key>10D447AE-25F5-4A1D-BB29-64302C5411FA</key>
 		<dict>
+			<key>xpos</key>
+			<integer>300</integer>
 			<key>ypos</key>
-			<real>510</real>
+			<integer>620</integer>
 		</dict>
 		<key>159A291E-3339-491E-8D3F-79091BE0319B</key>
 		<dict>
+			<key>xpos</key>
+			<integer>750</integer>
 			<key>ypos</key>
-			<real>10</real>
+			<integer>10</integer>
 		</dict>
 		<key>1AE3BB23-D37C-4CE4-9745-21AA07287DE9</key>
 		<dict>
+			<key>xpos</key>
+			<integer>500</integer>
 			<key>ypos</key>
-			<real>510</real>
+			<integer>620</integer>
 		</dict>
 		<key>1B12E95F-8F32-400E-A887-2A06F84E2615</key>
 		<dict>
+			<key>xpos</key>
+			<integer>300</integer>
 			<key>ypos</key>
-			<real>710</real>
+			<integer>840</integer>
 		</dict>
 		<key>2B2148AD-3162-4DF2-87E2-724548EC4B3E</key>
 		<dict>
+			<key>xpos</key>
+			<integer>500</integer>
 			<key>ypos</key>
-			<real>310</real>
+			<integer>380</integer>
 		</dict>
 		<key>3C121864-C05B-47BB-A742-792721C650AB</key>
 		<dict>
+			<key>xpos</key>
+			<integer>750</integer>
 			<key>ypos</key>
-			<real>710</real>
+			<integer>840</integer>
 		</dict>
 		<key>460C9157-2FA1-4618-B805-5874A1078F94</key>
 		<dict>
+			<key>xpos</key>
+			<integer>500</integer>
 			<key>ypos</key>
-			<real>610</real>
+			<integer>730</integer>
 		</dict>
 		<key>8920D2EF-22CB-48CD-A978-6376FA388AC6</key>
 		<dict>
+			<key>xpos</key>
+			<integer>500</integer>
 			<key>ypos</key>
-			<real>210</real>
+			<integer>250</integer>
 		</dict>
 		<key>907FF73F-46D8-4CD6-8C24-3DAFC7E9A246</key>
 		<dict>
+			<key>xpos</key>
+			<integer>500</integer>
 			<key>ypos</key>
-			<real>410</real>
+			<integer>490</integer>
 		</dict>
 		<key>92682BEA-7870-475E-B507-7CB0D5BD071F</key>
 		<dict>
+			<key>xpos</key>
+			<integer>750</integer>
 			<key>ypos</key>
-			<real>310</real>
+			<integer>380</integer>
 		</dict>
 		<key>AAE2193C-E6C1-4A1C-8A17-774AF8868DCF</key>
 		<dict>
+			<key>xpos</key>
+			<integer>500</integer>
 			<key>ypos</key>
 			<real>10</real>
 		</dict>
 		<key>C95BF847-AF2B-4E7F-B79B-73975F16679E</key>
 		<dict>
+			<key>xpos</key>
+			<integer>300</integer>
 			<key>ypos</key>
-			<real>210</real>
+			<integer>250</integer>
 		</dict>
 		<key>C9BA5AE1-324C-4670-871D-CE1F194CC38C</key>
 		<dict>
+			<key>xpos</key>
+			<integer>500</integer>
 			<key>ypos</key>
-			<real>710</real>
+			<integer>840</integer>
 		</dict>
 		<key>CD69778A-A49B-44D1-9F54-B24359DEF8B8</key>
 		<dict>
+			<key>xpos</key>
+			<integer>300</integer>
 			<key>ypos</key>
 			<real>10</real>
 		</dict>
 		<key>D2372DBC-C28F-421E-8E91-1FAA5A33A10D</key>
 		<dict>
+			<key>xpos</key>
+			<integer>750</integer>
 			<key>ypos</key>
-			<real>210</real>
+			<integer>250</integer>
 		</dict>
 		<key>D35EA5F6-518B-4103-AA3F-0ACA63983404</key>
 		<dict>
+			<key>xpos</key>
+			<integer>300</integer>
 			<key>ypos</key>
-			<real>310</real>
+			<integer>380</integer>
 		</dict>
 		<key>D97CE7A4-4A3A-4CC8-9BE8-028D0964F7BE</key>
 		<dict>
+			<key>xpos</key>
+			<integer>300</integer>
 			<key>ypos</key>
-			<real>610</real>
+			<integer>730</integer>
 		</dict>
 		<key>E211DD3D-C18F-4A0F-AF53-B2A8AFEDB41D</key>
 		<dict>
+			<key>xpos</key>
+			<integer>500</integer>
 			<key>ypos</key>
-			<real>110</real>
+			<integer>140</integer>
 		</dict>
 		<key>E3D69637-FA36-4F1E-ACB4-21511DFF0063</key>
 		<dict>
+			<key>xpos</key>
+			<integer>750</integer>
 			<key>ypos</key>
-			<real>410</real>
+			<integer>490</integer>
 		</dict>
 		<key>F783B864-D782-42D7-8287-D22F321175D3</key>
 		<dict>
+			<key>xpos</key>
+			<integer>750</integer>
 			<key>ypos</key>
-			<real>110</real>
+			<integer>140</integer>
 		</dict>
 		<key>FE924FD8-FF07-4EA3-8310-FC82D638AC8D</key>
 		<dict>
+			<key>xpos</key>
+			<integer>300</integer>
 			<key>ypos</key>
-			<real>410</real>
+			<integer>490</integer>
 		</dict>
 	</dict>
 	<key>webaddress</key>

@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>bundleid</key>
-	<string></string>
+	<string>com.tunnels.mpdcontroller</string>
 	<key>connections</key>
 	<dict>
 		<key>025CFBD0-E677-4FDF-8FE9-5EE457047C4C</key>
@@ -758,168 +758,168 @@ for count in `seq 0 $num2`; do /usr/local/bin/mpc find album "${requested_albums
 		<key>012B7F5D-DFF5-477D-98EB-470E7DF81E12</key>
 		<dict>
 			<key>xpos</key>
-			<integer>750</integer>
+			<integer>540</integer>
 			<key>ypos</key>
 			<integer>730</integer>
 		</dict>
 		<key>025CFBD0-E677-4FDF-8FE9-5EE457047C4C</key>
 		<dict>
 			<key>xpos</key>
-			<integer>300</integer>
+			<integer>90</integer>
 			<key>ypos</key>
 			<integer>140</integer>
 		</dict>
 		<key>06E14DFF-420D-4897-9FF0-BD7EEDF94972</key>
 		<dict>
 			<key>xpos</key>
-			<integer>750</integer>
+			<integer>540</integer>
 			<key>ypos</key>
 			<integer>620</integer>
 		</dict>
 		<key>10D447AE-25F5-4A1D-BB29-64302C5411FA</key>
 		<dict>
 			<key>xpos</key>
-			<integer>300</integer>
+			<integer>90</integer>
 			<key>ypos</key>
 			<integer>620</integer>
 		</dict>
 		<key>159A291E-3339-491E-8D3F-79091BE0319B</key>
 		<dict>
 			<key>xpos</key>
-			<integer>750</integer>
+			<integer>540</integer>
 			<key>ypos</key>
 			<integer>10</integer>
 		</dict>
 		<key>1AE3BB23-D37C-4CE4-9745-21AA07287DE9</key>
 		<dict>
 			<key>xpos</key>
-			<integer>500</integer>
+			<integer>290</integer>
 			<key>ypos</key>
 			<integer>620</integer>
 		</dict>
 		<key>1B12E95F-8F32-400E-A887-2A06F84E2615</key>
 		<dict>
 			<key>xpos</key>
-			<integer>300</integer>
+			<integer>90</integer>
 			<key>ypos</key>
 			<integer>840</integer>
 		</dict>
 		<key>2B2148AD-3162-4DF2-87E2-724548EC4B3E</key>
 		<dict>
 			<key>xpos</key>
-			<integer>500</integer>
+			<integer>290</integer>
 			<key>ypos</key>
 			<integer>380</integer>
 		</dict>
 		<key>3C121864-C05B-47BB-A742-792721C650AB</key>
 		<dict>
 			<key>xpos</key>
-			<integer>750</integer>
+			<integer>540</integer>
 			<key>ypos</key>
 			<integer>840</integer>
 		</dict>
 		<key>460C9157-2FA1-4618-B805-5874A1078F94</key>
 		<dict>
 			<key>xpos</key>
-			<integer>500</integer>
+			<integer>290</integer>
 			<key>ypos</key>
 			<integer>730</integer>
 		</dict>
 		<key>8920D2EF-22CB-48CD-A978-6376FA388AC6</key>
 		<dict>
 			<key>xpos</key>
-			<integer>500</integer>
+			<integer>290</integer>
 			<key>ypos</key>
 			<integer>250</integer>
 		</dict>
 		<key>907FF73F-46D8-4CD6-8C24-3DAFC7E9A246</key>
 		<dict>
 			<key>xpos</key>
-			<integer>500</integer>
+			<integer>290</integer>
 			<key>ypos</key>
 			<integer>490</integer>
 		</dict>
 		<key>92682BEA-7870-475E-B507-7CB0D5BD071F</key>
 		<dict>
 			<key>xpos</key>
-			<integer>750</integer>
+			<integer>540</integer>
 			<key>ypos</key>
 			<integer>380</integer>
 		</dict>
 		<key>AAE2193C-E6C1-4A1C-8A17-774AF8868DCF</key>
 		<dict>
 			<key>xpos</key>
-			<integer>500</integer>
+			<integer>290</integer>
 			<key>ypos</key>
-			<real>10</real>
+			<integer>10</integer>
 		</dict>
 		<key>C95BF847-AF2B-4E7F-B79B-73975F16679E</key>
 		<dict>
 			<key>xpos</key>
-			<integer>300</integer>
+			<integer>90</integer>
 			<key>ypos</key>
 			<integer>250</integer>
 		</dict>
 		<key>C9BA5AE1-324C-4670-871D-CE1F194CC38C</key>
 		<dict>
 			<key>xpos</key>
-			<integer>500</integer>
+			<integer>290</integer>
 			<key>ypos</key>
 			<integer>840</integer>
 		</dict>
 		<key>CD69778A-A49B-44D1-9F54-B24359DEF8B8</key>
 		<dict>
 			<key>xpos</key>
-			<integer>300</integer>
+			<integer>90</integer>
 			<key>ypos</key>
-			<real>10</real>
+			<integer>10</integer>
 		</dict>
 		<key>D2372DBC-C28F-421E-8E91-1FAA5A33A10D</key>
 		<dict>
 			<key>xpos</key>
-			<integer>750</integer>
+			<integer>540</integer>
 			<key>ypos</key>
 			<integer>250</integer>
 		</dict>
 		<key>D35EA5F6-518B-4103-AA3F-0ACA63983404</key>
 		<dict>
 			<key>xpos</key>
-			<integer>300</integer>
+			<integer>90</integer>
 			<key>ypos</key>
 			<integer>380</integer>
 		</dict>
 		<key>D97CE7A4-4A3A-4CC8-9BE8-028D0964F7BE</key>
 		<dict>
 			<key>xpos</key>
-			<integer>300</integer>
+			<integer>90</integer>
 			<key>ypos</key>
 			<integer>730</integer>
 		</dict>
 		<key>E211DD3D-C18F-4A0F-AF53-B2A8AFEDB41D</key>
 		<dict>
 			<key>xpos</key>
-			<integer>500</integer>
+			<integer>290</integer>
 			<key>ypos</key>
 			<integer>140</integer>
 		</dict>
 		<key>E3D69637-FA36-4F1E-ACB4-21511DFF0063</key>
 		<dict>
 			<key>xpos</key>
-			<integer>750</integer>
+			<integer>540</integer>
 			<key>ypos</key>
 			<integer>490</integer>
 		</dict>
 		<key>F783B864-D782-42D7-8287-D22F321175D3</key>
 		<dict>
 			<key>xpos</key>
-			<integer>750</integer>
+			<integer>540</integer>
 			<key>ypos</key>
 			<integer>140</integer>
 		</dict>
 		<key>FE924FD8-FF07-4EA3-8310-FC82D638AC8D</key>
 		<dict>
 			<key>xpos</key>
-			<integer>300</integer>
+			<integer>90</integer>
 			<key>ypos</key>
 			<integer>490</integer>
 		</dict>
